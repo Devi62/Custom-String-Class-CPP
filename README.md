@@ -12,3 +12,12 @@ The objective of this project is to understand low-level string manipulation, dy
 * Operator overloading for common string operations
 * Manual implementation of common string functions without using std::string
 * Demonstration of Rule of Three in C++
+## **Operators Implemented**
+The following operators are overloaded in the STRING class:
+
+* Assignment operator (=)
+* Concatenation operator (+)
+* Subscript operator ([])
+* Stream insertion operator (<<)
+* Stream extraction operator (>>)
+* Comparison operators (==, !=, <, >, <=, >=)
