@@ -7,8 +7,8 @@ The objective of this project is to understand low-level string manipulation, dy
 ## **Features Implemented**
  The project includes the following features:  
  
--Default constructor, parameterized constructor, and copy constructor
--Dynamic memory management using new and delete
--Operator overloading for common string operations
--Manual implementation of common string functions without using std::string
--Demonstration of Rule of Three in C++
+* Default constructor, parameterized constructor, and copy constructor
+* Dynamic memory management using new and delete
+* Operator overloading for common string operations
+* Manual implementation of common string functions without using std::string
+* Demonstration of Rule of Three in C++
