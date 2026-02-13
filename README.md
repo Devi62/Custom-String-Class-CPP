@@ -60,5 +60,14 @@ User input is accepted using the overloaded extraction (>>) operator and output 
 All string operations such as copying, concatenation, comparison, searching, and case conversion are implemented manually without using the C++ Standard Library string class. 
 
 This project helps in understanding how strings work internally in C++.
+# **Applications**
+This project can be used for:
+* Academic mini projects
+* Learning core C++ programming concepts
+* Understanding internal working of strings
+* Interview preparation for C++ fundamentals
+* Practicing memory management and OOP concepts
+# **Author**
+Allu Roopa Devi
 
 
