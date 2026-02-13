@@ -1,5 +1,5 @@
 # Custom-String-Class-CPP
-#Project Overview
+## **Project Overview**
 This mini project implements a Custom STRING Class in C++ without using the Standard Library std::string.
 The objective of this project is to understand low-level string manipulation, dynamic memory allocation, and operator overloading by building a string class from scratch using Object-Oriented Programming concepts.
 
