@@ -21,3 +21,22 @@ The following operators are overloaded in the STRING class:
 * Stream insertion operator (<<)
 * Stream extraction operator (>>)
 * Comparison operators (==, !=, <, >, <=, >=)
+
+## **String Functions Implemented**
+The following string manipulation functions are implemented using friend functions:
+
+* Strcpy
+* Strncpy
+* Strcmp
+* Strncmp
+* Strcat
+* Strncat
+* Strrev
+* Strupper
+* Strlower
+* Strchr
+* Strrchr
+* Strstr
+*Strlen
+
+
